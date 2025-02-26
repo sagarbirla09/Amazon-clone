@@ -1,0 +1,9 @@
+h1{
+    text-transform: capitalize;
+    text-decoration: underline;
+    text-align: center;
+}
+p{
+    font-family: 'Times New Roman';
+    text-transform: capitalize;
+}

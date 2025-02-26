@@ -1,0 +1,52 @@
+* {
+    padding: 0%;
+    margin: 0%;
+    color: white;
+
+}
+
+#navbar {
+    height: 60px;
+    background-color: black;
+}
+
+button {
+    background-color: #f08804;
+}
+
+#logo {
+    color: #f08804;
+}
+
+a {
+    margin-right: 200px;
+    text-decoration: none;
+
+}
+
+input {
+    color: red;
+}
+
+.contentbox {
+    font-weight: bolder;
+    color: #f08;
+    height: 150px;
+    width: 150px;
+    border: 3px solid black;
+    display: inline-block;
+}
+
+.sagar {
+    font-weight: lighter;
+    color: rgb(71, 24, 61);
+}
+
+#content {
+    height: 618.5px;
+}
+
+footer {
+    text-align: center;
+    background-color: black;
+}
